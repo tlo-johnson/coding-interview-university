@@ -1,0 +1,3 @@
+study plan
+- search for `========== seek ==========` to see where you stopped
+- write an implementation in c, c++ without built-in types, c++ with built-in types, python, c#
